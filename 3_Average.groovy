@@ -22,7 +22,7 @@ class Average {
         print "Enter 3rd value: "
         def c = System.in.newReader().readLine() as Integer
         def avg = new Average()
-        rec.setNum(a,b,c)
+        avg.setNum(a,b,c)
         println "Average : " + avg.getAverage()
     }
 
