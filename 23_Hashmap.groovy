@@ -1,4 +1,4 @@
-class Example { 
+class Hashmapp { 
    static void main(String[] args) { 
       def mp = [1 : "Red", 2 : "Blue"] 
       println "Size of Hashmap mp:"

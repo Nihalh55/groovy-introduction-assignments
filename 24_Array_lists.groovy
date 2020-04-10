@@ -1,4 +1,4 @@
-class Example {
+class ArrayLists {
    static void main(String[] args) {
     println "Creating List"
     def lst = [];

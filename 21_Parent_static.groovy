@@ -1,4 +1,4 @@
-class example {
+class ParentStatic {
     static void main(String[] args){
         def sub1 = new A_class()
         sub1.a_method()
